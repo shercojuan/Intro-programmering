@@ -1,6 +1,10 @@
 Julians Loggbok
 ==========
 
+24-09-24
+----------
+Började med 7070, hann klart med 1A-1C.
+
 24-09-23
 ----------
 Gjorde äntligen klart 7061.

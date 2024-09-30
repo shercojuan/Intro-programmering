@@ -1,5 +1,7 @@
 import random
 text = input("Vill du spela? j/n: ")
+if text == "n":
+    print("Skit i det då.")
 while text == "j":
     tal1 = random.randrange(1, 6)
     tal2 = random.randrange(1, 6)
@@ -9,5 +11,5 @@ while text == "j":
     else:
         print("förlust")
     text = input("Vill du spela igen? j/n: ")
-if text == "n":
-    print("Vad roligt att du spelade en stund!")
+    if text == "n":
+        print("Vad roligt att du spelade en stund!")
