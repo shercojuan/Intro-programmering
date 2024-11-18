@@ -1,6 +1,50 @@
 Julians Loggbok
 ==========
 
+24-11-18
+----------
+
+
+24-11-11
+----------
+Gjorde 7095 och 7096
+
+24-11-05
+----------
+Gjorde uppgift 7.
+
+24-11-04
+----------
+Gjorde 7073 uppgift 6.
+
+24-10-22
+----------
+Gjorde 7073 uppgift 1-5.
+
+24-10-21
+----------
+Genomgång hela lektionen.
+
+24-10-14
+----------
+Blev klar med 7070.
+
+24-10-08
+----------
+Jobbade vidare med 7070.
+
+24-10-07
+----------
+Jobbade vidare med 7070.
+
+24-10-01
+----------
+Jobbade vidare med 7070.
+
+24-09-30
+----------
+Jobbade vidare med 7070.
+
 24-09-24
 ----------
 Började med 7070, hann klart med 1A-1C.
